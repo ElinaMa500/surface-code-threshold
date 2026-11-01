@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+INTERVIEW_QA.md
+.pytest_cache/
+data/claude_*.csv

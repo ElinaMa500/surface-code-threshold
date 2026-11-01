@@ -1,0 +1,6 @@
+stim>=1.13
+pymatching>=2.2
+sinter>=1.13
+numpy
+matplotlib
+pytest
